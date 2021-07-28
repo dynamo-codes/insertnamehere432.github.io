@@ -30,6 +30,15 @@ body {
 	margin: 250px;
 	text-shadow: 0 0 90px #00D4F6;
 }
+
+.vidt {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #00D4F6;
+	font-size: 50px;
+	text-align: center;
+	text-shadow: 0 0 90px #00D4F6;
+}
+
 a {
   
 }
