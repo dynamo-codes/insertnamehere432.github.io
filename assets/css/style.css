@@ -1,3 +1,42 @@
-h1 {
-  font-family: arial;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+  color: #000000;
+}
+
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #1FFF0F;
+  color: #000000;
+}
+
+.maint {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #00ff00;
+	font-size: 150px;
+	text-align: center;
+	margin: 250px;
+	text-shadow: 0 0 90px #00ff00;
+}
+a {
+  
+}
+a:link {color: transparent;}
+a:visited {color: transparent;}
+a:hover {color: transparent;}
+a:active {color: transparent;}
+.mainb {
+	background-color: black;
 }
