@@ -4,3 +4,7 @@ function apex_check() {
     window.location.href = window.location.href.replace("index.html","");
   }
 }
+
+function image_click() {
+  console.log("works")
+}
