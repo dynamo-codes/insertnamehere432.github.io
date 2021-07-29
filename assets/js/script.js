@@ -8,3 +8,5 @@ function apex_check() {
 function image_click() {
   console.log("works")
 }
+
+console.log("works1")
