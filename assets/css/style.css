@@ -39,6 +39,12 @@ body {
 	text-shadow: 0 0 90px #00D4F6;
 }
 
+button {
+	height: 20px;
+	width: 50px;
+	background-color: #0080FF;
+}
+
 a {
   
 }
