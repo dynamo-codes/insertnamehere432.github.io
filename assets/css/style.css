@@ -44,6 +44,7 @@ button {
 	width: 100px;
 	background-color: #00D4F6;
 	border: 0px;
+	box-shadow: 0 0 90px #00D4F6;
 }
 
 a {
