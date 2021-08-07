@@ -28,7 +28,7 @@ body {
 	font-size: 150px;
 	text-align: center;
 	margin-top: 220px;
-	text-shadow: 0 0 90px #00D4F6;
+	text-shadow: 0 0 90px #0080FF;
 }
 
 .vidt {
@@ -36,15 +36,15 @@ body {
 	color: #00D4F6;
 	font-size: 50px;
 	text-align: center;
-	text-shadow: 0 0 90px #00D4F6;
+	text-shadow: 0 0 90px #0080FF;
 }
 
 button {
 	height: 40px;
 	width: 100px;
-	background-color: #00D4F6;
+	background-color: #0080FF;
 	border: 0px;
-	box-shadow: 0 0 90px #00D4F6;
+	box-shadow: 0 0 90px #0080FF;
 }
 
 a {
